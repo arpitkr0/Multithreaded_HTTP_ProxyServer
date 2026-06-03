@@ -148,7 +148,3 @@ This project provided hands-on experience with:
 - Multithreaded server architecture
 
 ---
-
-## License
-
-This project is intended for educational and learning purposes.
